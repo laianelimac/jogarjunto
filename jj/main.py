@@ -1,6 +1,4 @@
-v1 = "Instituto Joga Junto"
-v2 = int(input())
-v3 = 8.5
-v4 = False
+def ola_mundo():
+    print("Olá mundo, esta é minha primeira função")
 
-print(v2)
+    ola_mundo()
